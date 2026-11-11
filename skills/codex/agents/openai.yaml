@@ -1,0 +1,6 @@
+interface:
+  display_name: "council"
+  short_description: "Ortak akıl kurulu (astra + Fable + argon) ve Claude/GPT alt modellere delegasyon"
+  default_prompt: "Use $council for this task: consult the council on hard decisions and delegate work to Claude and GPT sub-models."
+policy:
+  allow_implicit_invocation: false
